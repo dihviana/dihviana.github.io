@@ -1,16 +1,6 @@
-title: Diego Viana | Security Blog
-email: seu-email@exemplo.com
-description: >- # este "bloco" permite textos longos
-  Análises estratégicas sobre Cybersecurity, Governança e IA. 
-  Insights do Security Leader e tendências de mercado.
-baseurl: "" 
-url: "https://dihviana.github.io"
-twitter_username: dihviana
-github_username:  dihviana
-
-# Configuração do Tema
-theme: minima
-
-# Plugins necessários
+title: Diego Viana | Security Insights
+description: Governança, IA e Defesa Cibernética
+remote_theme: pages-themes/hacker@v0.2.0 # Um tema com visual "terminal", muito usado em segurança
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
