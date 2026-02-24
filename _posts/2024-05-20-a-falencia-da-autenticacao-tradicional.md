@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "A Falência da Autenticacao Tradicional: O Fator Humano e a Urgência do Passwordless"
 date: 2026-02-24 09:00:00 -0300
 categories: [Cybersecurity, Identity]
